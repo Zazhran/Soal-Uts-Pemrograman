@@ -34,11 +34,13 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
   - Function
     
     def hitung_statistik(data):
+    
      ........
     
   - Loop
     
     for n in data:
+    
         .....
     
   - Conditional
