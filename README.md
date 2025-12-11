@@ -24,9 +24,41 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
 
 Dalam Soal itu ada beberapa materi yang harus diketahui :
 
+  - Input
+    jumlah_angka = int(input("Masukkan jumlah angka\n"))
+
   - Function
+    def hitung_statistik(data):
+     ........
+    
   - Loop
-  - If Statements
+    for n in data:
+        .....
+    
+  - Conditional
+    if avg >= 80:
+     print("Bagus :", avg)
+    elif avg >= 50:
+     print("Cukup :", avg)
+    else:
+     print("Kurang :", avg)
+    
+  - Operator (Non Built-in)
+    min = data[0]
+    max = data[0]
+    total = 0
+
+    for n in data:
+        if n < min:
+            min = n
+        elif n > max:
+            max = n
+        total += n
+
+    avg = total / len(data)
+
+    return min, max, avg
+    
   
 ## 3/4
 
@@ -34,6 +66,7 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
 
 
 Dalam Soal itu ada beberapa materi yang harus diketahui :
+   
   - Function
   - Loop
   - If Statements
