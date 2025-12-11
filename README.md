@@ -45,12 +45,12 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
     
   - Conditional
     
-    if avg >= 80:
+    `if avg >= 80:
      print("Bagus :", avg)
     elif avg >= 50:
      print("Cukup :", avg)
     else:
-     print("Kurang :", avg)
+     print("Kurang :", avg)`
     
   - Operator (Non Built-in)
     
