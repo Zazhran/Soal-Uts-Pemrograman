@@ -30,8 +30,8 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
   
 ## 3/4
 
+![WhatsApp Image 2025-12-05 at 15 09 40](https://github.com/user-attachments/assets/378748b6-8183-410e-92c6-bf533847f4d9)
 
-![soal lupa lagi gatau](https://github.com/user-attachments/assets/92096b8b-fde5-4b57-be61-ca0d48866872)
 
 Dalam Soal itu ada beberapa materi yang harus diketahui :
   - Function
