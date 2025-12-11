@@ -1,5 +1,5 @@
 # Soal-Uts-Pemrograman
-baru kejawab 3/4 cik
+Yippiee kejawab 4/4
 
 ---
 
@@ -32,6 +32,15 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
 
 ![WhatsApp Image 2025-12-05 at 15 09 40](https://github.com/user-attachments/assets/378748b6-8183-410e-92c6-bf533847f4d9)
 
+
+Dalam Soal itu ada beberapa materi yang harus diketahui :
+  - Function
+  - Loop
+  - If Statements
+
+# 4/4
+
+![soal lupa lagi gatau](https://github.com/user-attachments/assets/58e59d2a-8d07-4488-86f2-83b2e3898e04)
 
 Dalam Soal itu ada beberapa materi yang harus diketahui :
   - Function
