@@ -32,14 +32,17 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
     jumlah_angka = int(input("Masukkan jumlah angka\n"))
 
   - Function
+    
     def hitung_statistik(data):
      ........
     
   - Loop
+    
     for n in data:
         .....
     
   - Conditional
+    
     if avg >= 80:
      print("Bagus :", avg)
     elif avg >= 50:
@@ -48,6 +51,7 @@ Dalam Soal itu ada beberapa materi yang harus diketahui :
      print("Kurang :", avg)
     
   - Operator (Non Built-in)
+    
     min = data[0]
     max = data[0]
     total = 0
